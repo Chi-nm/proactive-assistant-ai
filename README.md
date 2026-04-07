@@ -1,10 +1,6 @@
-A professional **README** is the first thing judges will see when they open your repository. It should clearly explain the **"Why"** (Problem), the **"How"** (Architecture), and the **"What"** (Features).
-
-You can create this directly on GitHub by clicking **"Add a README"** or by creating a file named `README.md` in your project folder.
-
----
-
 # 🚀 Proactive Multi-Agent Personal Assistant
+
+**Live Demo:** [Click here to talk to the Assistant](https://proactive-assistant-941120253400.us-central1.run.app/dev-ui)
 
 A sophisticated, multi-agent AI system built using the **Google Agent Development Kit (ADK)** and deployed on **Google Cloud Run**. This assistant manages tasks, schedules, and information by coordinating specialized agents and interacting with a persistent SQL database.
 
