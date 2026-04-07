@@ -1,6 +1,6 @@
 # 🚀 Proactive Multi-Agent Personal Assistant
 
-**Live Demo:** [Click here to talk to the Assistant](https://proactive-assistant-941120253400.us-central1.run.app/dev-ui)
+**Live Demo:** [Click here to talk to the Assistant](https://proactive-assistant-941120253400.us-central1.run.app)
 
 A sophisticated, multi-agent AI system built using the **Google Agent Development Kit (ADK)** and deployed on **Google Cloud Run**. This assistant manages tasks, schedules, and information by coordinating specialized agents and interacting with a persistent SQL database.
 
